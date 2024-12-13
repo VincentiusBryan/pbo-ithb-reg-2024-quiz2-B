@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\vince\\Downloads\\fore-tubes-pbo-2024-master\\fore-tubes-pbo-2024-master\\lib\\mysql-connector-java-8.0.20.jar"
+    ]
+}
